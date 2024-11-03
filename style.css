@@ -12,12 +12,12 @@ body * {
   font-family: "Roboto Condensed", sans-serif;
   color: white;
 }
-/*Configuração do container*/
+/* Configuração do container */
 #container {
   width: 360px;
   margin: 56px auto 0px;
 }
-/*Configuração do profile*/
+/* Configuração do profile */
 #profile {
   text-align: center;
   /*https://css-tricks.com/*/
@@ -33,7 +33,7 @@ body * {
   line-height: 24px;
   margin-top: 8px;
 }
-/*Configuração dos links*/
+/* Configuração dos links */
 ul {
   list-style: none;
 
@@ -52,5 +52,18 @@ ul li a {
   background: rgba(255, 255, 255, 0.1);
   border: 2px solid rgba(255, 255, 255, 0.5);
   border-radius: 16px;
+
   backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+
+  text-decoration: none;
+  font-weight: 500;
+
+  transition: ;
+}
+
+/* pseudo-selector */
+ul li a:hover {
+  background: rgba(255, 255, 255, 0.5);
+  border: 3 px solid rgba(255, 255, 255, 1);
 }
