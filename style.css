@@ -42,7 +42,7 @@ ul {
   flex-direction: column;
   gap: 16px;
 
-  padding: 24px, 0;
+  padding: 24px 0;
 }
 
 ul li a {
@@ -74,10 +74,12 @@ ul li a:hover {
 /*social-links*/
 #social-links {
   display: flex;
-  align-items: center;
+  justify-content: center;
   gap: 32px;
 
   padding: 24px;
 
   font-size: 24px;
 }
+
+
