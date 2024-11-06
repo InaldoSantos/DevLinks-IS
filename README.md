@@ -22,7 +22,7 @@ Este é um projeto simples de uma página web que exibe links úteis e informaç
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks | IS" src=".github/preview.jpg" width="100%">
 </p>
 
 ## Visão Geral
