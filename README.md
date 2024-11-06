@@ -2,10 +2,13 @@
 
 <p align="center">
 Este é um projeto simples de uma página web que exibe links úteis e informações de perfil. O projeto utiliza HTML, CSS e JavaScript. Baseado no Programa de ensino em Programação, promovido pela RocketSeat. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Você pode aprender como construir um projeto  como este clicando aqui.</a>
 </p>
 
 <p align="center">
+  <a href="#-funcvisão geralionalidades">Visão Geral</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-estrutura do projeto">Estrutura do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -22,7 +25,26 @@ Este é um projeto simples de uma página web que exibe links úteis e informaç
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## Visão Geral
+
+Este projeto apresenta um perfil de desenvolvedor com links para contatos, currículos e redes sociais.
+
+## Funcionalidades
+
+**Perfil**: Exibe uma imagem de perfil e o nome de usuário.</br>
+**Modo de Exibição**: Alterna entre modos de exibição (claro e escuro).</br>
+**Links de Contato**: Inclui links para dois contatos de WhatsApp. </br>
+**Currículos**: Links para currículos profissional e acadêmico.</br>
+**Portfólio**: Um link para o portfólio no GitHub.</br>
+**Redes Sociais**: Links para perfis no GitHub, Instagram e LinkedIn.
+
+## Estrutura do Projeto
+
+`index.html`: Estrutura principal da página.</br>
+`style.css`: Estilos para a página. </br>
+`script.js`: Scripts para funcionalidades da página. </br>
+
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -31,13 +53,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O DevLinks é um agregador de links que pode ser usado como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://InaldoSantos.github.io/devlinks-IS)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Construa o seu também](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 🔖 Layout
 
@@ -49,4 +71,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Construido com base no projeto do curso da [Rocketseat](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
